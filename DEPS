@@ -7,7 +7,7 @@ vars = {
 
   'abseil_revision': '1315c900e1ddbb08a23e06eeb9a06450052ccb5e',
   'effcee_revision': '514b52ec61609744d7e587d93a7ef9b60407ab45',
-  'glslang_revision': '0d614c24699d986afd590b93a8c0f0946e997919',
+  'glslang_revision': '9d764997360b202d2ba7aaad9a401e57d8df56b3',
   'googletest_revision': '1d17ea141d2c11b8917d2c7d029f1c4e2b9769b2',
   're2_revision': '4a8cee3dd3c3d81b6fe8b867811e193d5819df07',
   'spirv_headers_revision': 'a7361efd139bf65de0e86d43b01b01e0b34d387f',
