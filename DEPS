@@ -11,7 +11,7 @@ vars = {
   'googletest_revision': '9df216cc9d6fd2f27e00e5ba1e88a502d7f278c7',
   're2_revision': '6569a9a3df256f4c0c3813cb8ee2f8eef6e2c1fb',
   'spirv_headers_revision': '01e0577914a75a2569c846778c2f93aa8e6feddd',
-  'spirv_tools_revision': 'b8b90dba56eb8c75050a712188d662fd51c953df',
+  'spirv_tools_revision': '745e753fd68bc59d170bb812ba3b0b1123f66fe0',
 }
 
 deps = {
